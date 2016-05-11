@@ -1,0 +1,14 @@
+.pmc-panel {
+	border-width: 3px;
+	border-style: dashed;
+	border-color: #12bbf0 !important;
+}
+
+.pmc-link {
+	border-width: 3px;
+	border-style: dashed;
+	/*border-color: #FFA500 !important;*/
+	border-color: white !important;
+	background: orange !important;
+	z-index: 99999;
+}
